@@ -1,0 +1,13 @@
+G:\Project\ASPDOTNET\Bitm Project\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+G:\Project\ASPDOTNET\Bitm Project\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+G:\Project\ASPDOTNET\Bitm Project\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+G:\Project\ASPDOTNET\Bitm Project\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+G:\Project\ASPDOTNET\Bitm Project\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+G:\Project\ASPDOTNET\Bitm Project\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+G:\Project\ASPDOTNET\Bitm Project\StockManagementWebApp\StockManagementWebApp\bin\itextsharp.dll
+C:\Users\Workstation\Desktop\XoomShopWebApp\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+C:\Users\Workstation\Desktop\XoomShopWebApp\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+C:\Users\Workstation\Desktop\XoomShopWebApp\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+C:\Users\Workstation\Desktop\XoomShopWebApp\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\XoomShopWebApp\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+C:\Users\Workstation\Desktop\XoomShopWebApp\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
